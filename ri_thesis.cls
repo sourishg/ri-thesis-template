@@ -94,12 +94,12 @@
 \begin{center}
     \em
     Submitted in partial fulfillment of the requirements \\
-    for the degree of Doctor of Philosophy in Robotics.
+    for the degree of Master of Science in Robotics.
 \end{center}
 
 \vfill
 
-\@ifundefined{@permission}{\@copyrightnotice{Copyright \copyright\ \@Year\ \@author}}{\@copyrightnotice{Copyright \copyright\ \@Year\ \@author. \@permission}}
+%\@ifundefined{@permission}{\@copyrightnotice{Copyright \copyright\ \@Year\ \@author}}{\@copyrightnotice{Copyright \copyright\ \@Year\ \@author. \@permission}}
 
 \@ifundefined{@support}{}{{\medskip\footnotesize\noindent\@support\par}}
 
